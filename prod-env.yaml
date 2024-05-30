@@ -1,0 +1,3 @@
+env_variables:
+  PG_USER: 'postgres'
+  PG_PASSWORD: 'aaAA11!!'
